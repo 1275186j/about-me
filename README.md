@@ -7,10 +7,11 @@
 <h2> Jayden Jorge</h2>
     <h3>Class schedule</h3>
 <ol>
-<li> </li>
-
-
-  
+<li> 1-2 period A day spanish/B day Geometry  </li>
+<li> 3-4 period A day Web design/ B Day Web design </li>
+<li> 5-6 period A day Chemistry/ B day English lit </li>
+<li> 7-8 period A day Lunch/ B day Lunch</li> 
+<li> 9-10 period A day Gym/B day history</li>
 
 
 <ol>
